@@ -1,7 +1,7 @@
 # Underwater Image Classification - Machine Learning ![Project Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBrunosCodeLab%2FUnderwaterImageClasssification-ML&count_bg=%235C9CFF&title_bg=%23008FC9&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/RealizatorBanner.png" alt="Banner" width="1080" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/UnderwaterImageClassification-ML/RealizatorBanner.png" alt="Banner" width="1080" />
 </div>
 <br>
 
@@ -25,7 +25,7 @@ The key part of building this model is training it on a representative dataset (
 <br><br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/Realizator.gif" alt="Gif" width="1080"/>
+  <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/UnderwaterImageClassification-ML/Realizator.gif" alt="Gif" width="1080"/>
 </div>
 <br>
 
@@ -52,7 +52,7 @@ Increasing the dataset size would enable the model to better generalize and achi
 <br><br>
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/RealizatorResult.png" alt="Photo" width="500" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/UnderwaterImageClassification-ML/RealizatorResult.png" alt="Photo" width="500" />
 </div>
 <br>
 
@@ -68,7 +68,7 @@ With these improvements, we could create even more accurate models, leading to b
 
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/Realizator_Placement.png" alt="Photo" width="1080" />
+    <img src="https://raw.githubusercontent.com/BrunosCodeLab/Images/refs/heads/main/UnderwaterImageClassification-ML/Realizator_Placement.png" alt="Photo" width="1080" />
 </div>
 
 
