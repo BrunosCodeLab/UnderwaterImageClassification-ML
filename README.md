@@ -73,4 +73,4 @@ With these improvements, we could create even more accurate models, leading to b
 
 
 <h3 align="center">"Alone we can do so little; together we can do so much." – Helen Keller</h3><br>
-This project wasn’t just about technology—it was about teamwork. Every line of code, every idea, and every late-night brainstorming session came together because of the amazing people I had the privilege to work with. Thank you all!
+This project wasn’t just about technology - it was about teamwork. Every line of code, every idea, and every late-night brainstorming session came together because of the amazing people I had the privilege to work with. Thank you all!
