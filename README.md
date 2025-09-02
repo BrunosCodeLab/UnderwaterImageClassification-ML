@@ -5,7 +5,7 @@
 </div>
 <br>
 
-This project was part of a student case contest where our team finished second. Through this experience, we not only focused on developing the best technical solution but also realized that selling the product and presenting it effectively can be just as important—if not more so—than the solution itself. 
+This project was part of a student case contest where our team finished second. Through this experience, we not only focused on developing the best technical solution but also realized that selling the product and presenting it effectively can be just as important, if not more so, than the solution itself. 
 The competition allowed us to tackle a real-world challenge, and I am proud of the collaborative effort that made this achievement possible. Working as a team, we combined our strengths and learned valuable lessons about teamwork, innovation, and communication.
 <br><br>
 
